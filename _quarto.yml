@@ -1,0 +1,72 @@
+project:
+  type: book
+  output-dir: _book
+
+lang: es
+
+book:
+  title: "Éxodo"
+  subtitle: "Comentario sobre el libro de Éxodo, basado en la Biblia Reina-Valera 1865"
+  author: "Instituto Bíblico Valera Online"
+  chapters:
+    - index.md
+    - exodo-01.md
+    - exodo-02.md
+    - exodo-03.md
+    - exodo-04.md
+    - exodo-05.md
+    - exodo-06.md
+    - exodo-07.md
+    - exodo-08.md
+    - exodo-09.md
+    - exodo-10.md
+    - exodo-11.md
+    - exodo-12.md
+    - exodo-13.md
+    - exodo-14.md
+    - exodo-15.md
+    - exodo-16.md
+    - exodo-17.md
+    - exodo-18.md
+    - exodo-19.md
+    - exodo-20.md
+    - exodo-21.md
+    - exodo-22.md
+    - exodo-23.md
+    - exodo-24.md
+    - exodo-25.md
+    - exodo-26.md
+    - exodo-27.md
+    - exodo-28.md
+    - exodo-29.md
+    - exodo-30.md
+    - exodo-31.md
+    - exodo-32.md
+    - exodo-33.md
+    - exodo-34.md
+    - exodo-35.md
+    - exodo-36.md
+    - exodo-37.md
+    - exodo-38.md
+    - exodo-39.md
+    - exodo-40.md
+
+number-sections: false
+
+filters:
+  - filters/scripture.lua
+
+format:
+  html:
+    theme: default
+    css: styles/book.css
+    toc: true
+  epub:
+    css: styles/epub.css
+  pdf:
+    documentclass: scrbook
+    pdf-engine: xelatex
+    papersize: a5
+    fontsize: 10pt
+    mainfont: "Times New Roman"
+    include-in-header: styles/preamble.tex

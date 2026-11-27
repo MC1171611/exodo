@@ -1,0 +1,39 @@
+# Éxodo 31 {#exo-31}
+
+::: scripture
+[1]{.vn #exo-31-1} Y habló Jehová a Moisés, diciendo:
+
+[2]{.vn #exo-31-2} Mira, *yo* he llamado por *su* nombre a Beseleel hijo de Uri, hijo de Jur, de la tribu de Judá,
+
+[3]{.vn #exo-31-3} Y lo he henchido de espíritu de Dios, en sabiduría, y en inteligencia, y en ciencia, y en todo artificio,
+
+[4]{.vn #exo-31-4} Para inventar invenciones para obrar en oro, y en plata, y en metal.
+
+[5]{.vn #exo-31-5} Y en artificio de piedras para engastar, y en artificio de madera, para obrar en toda obra.
+
+[6]{.vn #exo-31-6} Y he aquí que yo he puesto con él a Ooliab, hijo de Aquisamec de la tribu de Dan: y he puesto sabiduría en el ánimo de todo sabio de corazón, para que hagan todo lo que te he mandado.
+
+[7]{.vn #exo-31-7} El tabernáculo del testimonio, y el arca del testimonio, y la cubierta que *estará* sobre ella, y todos los vasos del tabernáculo,
+
+[8]{.vn #exo-31-8} Y la mesa y sus vasos, y el candelero limpio y todos sus vasos, y el altar del perfume,
+
+[9]{.vn #exo-31-9} Y el altar del holocausto, y todos sus vasos, y la fuente, y su basa,
+
+[10]{.vn #exo-31-10} Y las vestiduras del servicio, y las santas vestiduras, para Aarón el sacerdote, y las vestiduras de sus hijos, para que sean sacerdotes,
+
+[11]{.vn #exo-31-11} Y el aceite de la unción, y el perfume aromático para el santuario, *el cual* harán conforme a todo lo que *yo* te he mandado.
+
+[12]{.vn #exo-31-12} ¶ Habló más Jehová a Moisés, diciendo:
+
+[13]{.vn #exo-31-13} Y tú hablarás a los hijos de Israel, diciendo: Con todo eso vosotros guardaréis mis sábados; porque es señal entre mí y vosotros por vuestras edades, para que sepáis que yo *soy* Jehová, que os santifico;
+
+[14]{.vn #exo-31-14} Así que guardaréis el sábado porque santo *es* a vosotros: El que lo profanare, muriendo morirá: porque cualquiera que hiciere obra *alguna* en él, aquella alma será cortada de en medio de sus pueblos.
+
+[15]{.vn #exo-31-15} Seis días se hará obra; y el séptimo día sábado de reposo *será* santo a Jehová: cualquiera que hiciere obra el día del sábado, muriendo morirá.
+
+[16]{.vn #exo-31-16} Guardarán pues el sábado los hijos de Israel, haciendo sábado por sus edades, pacto perpetuo:
+
+[17]{.vn #exo-31-17} Señal *es* para siempre entre mí y los hijos de Israel; porque en seis días hizo Jehová los cielos y la tierra, y en el séptimo día cesó, y reposó.
+
+[18]{.vn #exo-31-18} ¶ Y dio a Moisés, como acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Dios.
+:::
