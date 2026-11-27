@@ -59,7 +59,7 @@
 
 [29]{.vn #exo-39-29} Ítem, el cinto de lino torcido, y de cárdeno, y púrpura, y carmesí, de obra de recamador, como Jehová lo mandó a Moisés.
 
-[30]{.vn #exo-39-30} Ítem, hicieron la plancha, la corona de la santidad, de oro puro, y escribieron en ella de grabadura de sello el rotulo, Santidad a Jehová.
+[30]{.vn #exo-39-30} Ítem, hicieron la plancha, la corona de la santidad, de oro puro, y escribieron en ella de grabadura de sello el rotulo, [Santidad a Jehová]{.smallcaps}.
 
 [31]{.vn #exo-39-31} Y pusieron sobre ella un cordón de cárdeno para ponerla sobre la mitra encima, como Jehová lo había mandado a Moisés.
 

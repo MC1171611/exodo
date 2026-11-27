@@ -6,7 +6,7 @@ lang: es
 
 book:
   title: "Éxodo"
-  subtitle: "Comentario sobre el libro de Éxodo, basado en la Biblia Reina-Valera 1865"
+  subtitle: "Comentario sobre el libro de Éxodo, basado en la Biblia Valera 1865"
   author: "Instituto Bíblico Valera Online"
   chapters:
     - index.md

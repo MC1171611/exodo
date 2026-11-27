@@ -71,7 +71,7 @@
 
 [35]{.vn #exo-28-35} Y estará sobre Aarón cuando ministrare, y oírse ha su sonido cuando él entrare en el santuario delante de Jehová, y cuando saliere: Y no morirá.
 
-[36]{.vn #exo-28-36} Ítem, harás una plancha de oro fino, y grabarás en ella de grabadura de sello, Santidad a Jehová.
+[36]{.vn #exo-28-36} Ítem, harás una plancha de oro fino, y grabarás en ella de grabadura de sello, [Santidad a Jehová]{.smallcaps}.
 
 [37]{.vn #exo-28-37} Y ponerla has con un cordón cárdeno, y estará sobre la mitra; delante la delantera de la mitra estará.
 
